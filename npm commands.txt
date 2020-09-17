@@ -1,0 +1,5 @@
+1.What is the ERR! code ENOLOCAL npm ERR! Could not install from error?
+
+npm config set cache "C:\Users\SHRIRAM~1\AppData\Roaming\npm-cache" --global
+===============================
+npm install -g npm
